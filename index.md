@@ -3,6 +3,6 @@
 ## Status
 ### Boise State Student
 #### **Major**
-  - GIMM (Gaming, Interactive Media, and Mobile)  
+GIMM (Gaming, Interactive Media, and Mobile)  
 #### **Minor**
-  - Computer Science
+Computer Science
